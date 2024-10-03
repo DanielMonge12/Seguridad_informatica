@@ -14,7 +14,7 @@ def ejecutar_comando(comando):
 
 print("Sistema para pruebas de seguridad informatica")
 print("Version 1.0")
-print("Desarrollado por: Ruben Vega")
+print("Desarrollado por: Daniel Monge")
 
 x = True
 
